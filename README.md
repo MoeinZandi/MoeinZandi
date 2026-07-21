@@ -151,18 +151,6 @@ A modern Full Stack platform that connects people with pets available for adopti
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Important:** This image will work after you add the GitHub Actions workflow that generates it.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/MoeinZandi/MoeinZandi/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 🚀 2026 Goals
 
 - 🚀 Master ASP.NET Core
