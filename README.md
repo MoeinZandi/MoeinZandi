@@ -23,7 +23,7 @@ Passionate about building modern, scalable, and user-friendly web applications.
 # 👨‍💻 About Me
 
 - 💻 Full Stack Developer
-- 🌱 Currently learning **Advanced ASP.NET Core**, **Angular 20**, **Docker**, and **Cloud Technologies**
+- 🌱 Currently learning **Advanced ASP.NET Core**, **Angular 22**, **Docker**, and **Cloud Technologies**
 - 🚀 Passionate about building scalable web applications
 - 🎯 Goal: Build production-ready software and contribute to Open Source
 - ⚡ Clean Code • REST APIs • Responsive UI
